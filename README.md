@@ -1,15 +1,18 @@
 # About the Mara
 
-references [skyenimals][1] [wikipedia][2]
-[1]: http://www.skyenimals.com/animal_index.cgi?animal=mara "skyenimals"
-[2]: https://en.wikipedia.org/wiki/Mara_(mammal) "wikipedia"
+reference to [wikipedia] (https://en.wikipedia.org/wiki/Mara_(mammal) )
 
 ## Important facts:
-1.  Mammalia
-2.  relatives of guinea pigs
+1.  Mammalia family.
+2.  relatives of guinea pigs.
 3.  may amble, hop in a rabbit-like fashion, gallop, or bounce on all fours.
 
 ## Lives in:
 - South America
 
-![Image of mara](/images/mara.png)
+![Image of mara](/images/mara.jpg)
+
+name | שם
+-------|--------
+Patagonian Mara|מארה פטגונית
+Chacoan mara|מארת צ'אקו
